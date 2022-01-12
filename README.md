@@ -1,2 +1,2 @@
 # Guvi_DS
-Codes on Data Science from Guvi Masterclass data science
+Codes on Data Science from Guvi 'Data Science Masterclass'
